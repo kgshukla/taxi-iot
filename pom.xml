@@ -12,6 +12,9 @@
 
     <modules>
         <module>eventservice</module>
+        <module>freetaxiservice</module>
+        <module>taxirouteservice</module>
+        <module>analyticservice</module>
     </modules>
 
     <parent>
