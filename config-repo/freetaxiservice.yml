@@ -1,2 +1,2 @@
-gemfire_locatorhost: 10.1.1.1
-gemfire_locatorport: 80
+gemfire_serverhost: 10.1.1.1
+gemfire_serverport: 80
